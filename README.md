@@ -44,8 +44,6 @@ Las respuestas se calculan únicamente con **Python y *pandas***, lo que hace qu
 * pandas
 * jupyterlab o notebook clásico
 
-*(Todas las dependencias están listadas en `requirements.txt` si decides agregarlo.)*
-
 ## Instalación
 
 ```bash
@@ -95,8 +93,3 @@ Este proyecto se distribuye bajo la licencia MIT. Consulta el archivo `LICENSE` 
 
 ## Autor
 
-**Joanna Alexandra Carrión Pérez** – [@tu‑usuario](https://github.com/tu-usuario)
-
----
-
-*Si te resulta útil, no olvides darle ⭐ al repositorio.*
