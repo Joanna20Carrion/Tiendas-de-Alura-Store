@@ -1,5 +1,10 @@
 # Alura Store Latam – Análisis de Ventas
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+![pandas](https://img.shields.io/badge/pandas-2.x-150458?logo=pandas&logoColor=white)
+![Licencia](https://img.shields.io/badge/Licencia-MIT-yellow)
+
 Este repositorio contiene el cuaderno **`AluraStoreLatam.ipynb`** que analiza el desempeño de cuatro tiendas de la cadena *Alura Store* en Latinoamérica a partir de datos abiertos en CSV. El objetivo es obtener indicadores rápidos de facturación, ventas por categoría, satisfacción de clientes y logística.
 
 ## Tabla de contenido
