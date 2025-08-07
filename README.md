@@ -48,7 +48,7 @@ Las respuestas se calculan únicamente con **Python y *pandas***, lo que hace qu
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/<tu-usuario>/AluraStoreLatam.git
+git clone https://github.com/Joanna20Carrion/Tiendas-de-Alura-Store.git
 cd AluraStoreLatam
 
 # 2. (Opcional) Crear y activar un entorno virtual
@@ -56,7 +56,7 @@ python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
 
 # 3. Instalar dependencias
-pip install -r requirements.txt  # o simplemente: pip install pandas jupyter
+pip install pandas jupyter
 ```
 
 ## Uso
