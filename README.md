@@ -13,7 +13,7 @@ Este repositorio contiene el cuaderno **`AluraStoreLatam.ipynb`** que analiza el
 7. [Resultados destacados](#resultados-destacados)
 8. [Contribuciones](#contribuciones)
 9. [Licencia](#licencia)
-10. [Autor](#autor)
+10. [Autora](#autora)
 
 ## Descripción del proyecto
 
@@ -90,8 +90,6 @@ Los CSV provienen de URLs públicas de GitHub Raw (incluidas en la primera celd
 ## Licencia
 
 Este proyecto se distribuye bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
-
-## Autor
 
 ## 👤 Autora
 
