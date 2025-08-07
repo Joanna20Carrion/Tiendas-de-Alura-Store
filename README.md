@@ -93,3 +93,10 @@ Este proyecto se distribuye bajo la licencia MIT. Consulta el archivo `LICENSE` 
 
 ## Autor
 
+## 👤 Autora
+
+**Joanna Alexandra Carrión Pérez**  
+🎓 Bachiller en Ingeniería Electrónica  
+🚀 Apasionada por la ciencia de datos y sistemas inteligentes  
+📧 joannacarrion14@gmail.com  
+🔗 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Joanna%20Carrión%20Pérez-blue?style=flat&logo=linkedin) [LinkedIn](https://www.linkedin.com/in/joanna-carrion-perez/) 
