@@ -91,7 +91,7 @@ Los CSV provienen de URLs públicas de GitHub Raw (incluidas en la primera celd
 
 Este proyecto se distribuye bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 
-## 👤 Autora
+## Autora
 
 **Joanna Alexandra Carrión Pérez**  
 🎓 Bachiller en Ingeniería Electrónica  
